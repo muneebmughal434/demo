@@ -1,3 +1,3 @@
 This is the readme file. This is first check. This is second check. Final one. Some more text.
 
-I hope this is'nt much of a problem
+This is bound to cause trouble!
